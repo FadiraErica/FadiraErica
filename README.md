@@ -7,7 +7,7 @@ A student interested in studying AI.
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about Artificial Intelligence
-- 📫 How to reach me: [LinkedIn]: (https://www.linkedin.com/in/fadira-erica-b8247823a//)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fadira-erica-b8247823a//)
 - ⚡ Fun fact: Slow Reader.
 
 
